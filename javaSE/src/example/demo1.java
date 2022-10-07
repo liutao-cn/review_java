@@ -16,5 +16,8 @@ public class demo1 {
 
         System.out.println(2<<3);   // << 左移为*2  实列中为3个左移，等同为2的3次方
         System.out.println(8>>2);   // >> 右移为 /2  实列中为2个右移，等同为8/4
+        if (num2>5){
+            System.out.println("测试");
+        }
     }
 }

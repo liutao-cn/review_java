@@ -1,4 +1,4 @@
-﻿package oop;
+package oop;
 
 /**
  * 人类
@@ -10,6 +10,9 @@ public class Person {
     }
 }
 
+/**
+ * 学生类
+ */
 class Student{
     private String name;
     private int age;
